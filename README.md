@@ -63,3 +63,14 @@ pip install -r requirements.txt
 
 🚀 Run the app
 streamlit run app.py
+
+## 📸 App Screenshots
+
+### 🖥️ Main Interface and a chart representation.
+![Screenshot 1](screenshot1.png)
+
+### 🔮 Forecast Output technical Indicators table
+![Screenshot 2](screenshot2.png)
+
+### 📊 Prediction Output
+![Screenshot 3](screenshot3.png)
